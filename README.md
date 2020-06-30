@@ -41,9 +41,9 @@ Open the termux app and type following commands.
 <br/>
 
 ## Now ip_m4u is installed successfully.
-
-**Warning :** ***I am not expert so use this tool at your own risk.***
-
+<marquee>
+**Warning :** ***I am not expert so use this tool at your own risk.😜***
+</marquee>
 <br/>
 
 
