@@ -36,6 +36,8 @@ Open the termux app and type following commands.
 
 * `chmod +x ip_m4u.py`
 
+* `python ip_m4u.py -v 172.217.4.206`
+
 <br/>
 
 ## Now ip_m4u is installed successfully.
