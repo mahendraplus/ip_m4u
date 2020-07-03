@@ -1,5 +1,5 @@
+# -*- coding: utf-8 -*-
 #coded by M4U.YT 
-#
 import argparse
 import requests, json
 import sys
