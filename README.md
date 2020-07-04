@@ -22,7 +22,7 @@ Laungitude & latitude.
 
   ***Example : `python ip_m4u.py -v 172.217.4.206`***
 
-# How to Install MyServer ?
+# How to Install IP M4U ?
 
 Open the termux app and type following commands.
 
