@@ -41,7 +41,7 @@ cyan = '\u001b[38;5;46'
 #m4u banner
 
 print (red+bold+"𝙲 𝚛 𝚎 𝚊 𝚝 𝚎 𝚍   𝙱 𝚢 :    @ 𝙼 𝟺 𝚄 . 𝚈 𝚃 \n"+clear)
-print ("\u001b[38;5;198mEmail: mahendrakumargahelot@gmail.com\n"+clear)
+print ("\u001b[38;5;198mM4U.YT\n"+clear)
 
 
 
