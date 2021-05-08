@@ -39,7 +39,7 @@ Open the termux app and type following commands.
 * `python ip_m4u.py -v 172.217.4.206`
 
 <br/>
-https://youtu.be/7_wkfh35s78
+
 ## Now ip_m4u is installed successfully.
 <marquee>
 **Warning :** ***I am not expert so use this tool at your own risk.😜***
