@@ -30,6 +30,10 @@ Open the termux app and type following commands.
 
 * `apt install git`
 
+`apt install python`
+
+`pip install argv`
+
 * `git clone https://github.com/mahendraplus/ip_m4u`
 
 * `cd ip_m4u`
