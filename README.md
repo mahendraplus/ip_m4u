@@ -1,10 +1,6 @@
 # ip_m4u
 
-Ip Finder 
-
-Find victim location ,
-
-Laungitude & latitude.
+## ip INfo
 
 <br/><br/><br/>
 
